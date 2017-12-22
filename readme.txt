@@ -1,4 +1,4 @@
-ПОДДЕРЖКА ПЛАГИНА ПРЕОСТАНОВЛЕНА ПО ПРИЧИНЕ ВЫПУСКА BOXBERRY СОБСТВЕННОГО ПЛАГИНА
+ПОДДЕРЖКА ПЛАГИНА ПРИОСТАНОВЛЕНА ПО ПРИЧИНЕ ВЫПУСКА BOXBERRY СОБСТВЕННОГО ПЛАГИНА
 http://boxberry.ru/business_solutions/it_solutions/1112283/
 
 === Boxberry for Woocommerce ===
